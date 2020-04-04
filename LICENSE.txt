@@ -1,1 +1,2 @@
 # lincese
+Apache 1.0
